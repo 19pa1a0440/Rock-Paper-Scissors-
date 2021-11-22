@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Lizard-Spouke
----> Run the Code in any Python IDE (Visual Studio recomended)
+---> Run the .py file in any Python IDE (Visual Studio recomended)
 
 
 
